@@ -10,11 +10,24 @@
         - ex. 1주차 월요일일 경우 : week1/devzoe/문제이름
     - PR 이름은 `week{주차}-{일차}_{깃허브 계정}` 와 같이 만든다
         - ex. 1주차 월요일일 경우 : week1-1_devzoe
+- 브랜치는 `week{주차}/{깃허브 계정}`와 같이 한다.
+  - ex. week1/almondBreez3
 - 문제 담당자는 담당 요일 전날 23시 59분 전까지 문제를 업로드한다.
 
 ## 규칙
-- 담당 문제 업로드 지각 : 5분 단위 1000원씩
-- PR 지각 : 5분 단위 1000원씩
+- 담당 문제 업로드 지각 : 경고 3회 후, 벌금 1000원
+- PR 지각 : 벌금 1000원
+
+## 요일 별 문제 담당자
+
+| 요일 | 담당자 | 담당자 당 문제 개수 |
+|------|------|-----|
+| 월 | [이한비](https://github.com/AlmondBreez3), [전유진](https://github.com/jacomyou1026) | 1개 |
+| 화 | [남경민](https://github.com/devzoe) | 2개 |
+| 수 | [이소희](https://github.com/olsohee) | 2개 |
+| 목 | [이한비](https://github.com/AlmondBreez3) | 2개 |
+| 금 | [이소희](https://github.com/olsohee), [남경민](https://github.com/devzoe)| 1개 |
+| 토 | [전유진](https://github.com/jacomyou1026) | 2개 |
 
 ## Collaborators
 <table>
