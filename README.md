@@ -45,5 +45,5 @@
 
 | 주차 | 문제 | 참고 |
 |------|------|------|
-| 1주차 | [치킨 배달](https://www.acmicpc.net/problem/15686), [스도쿠](https://www.acmicpc.net/problem/2580), [퇴사](https://www.acmicpc.net/problem/14501), [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | |
+| 1주차 | [치킨 배달](https://www.acmicpc.net/problem/15686), [스도쿠](https://www.acmicpc.net/problem/2580), [퇴사](https://www.acmicpc.net/problem/14501), [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367), [구간 합 구하기](https://www.acmicpc.net/problem/11660), [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344), [빙산](https://www.acmicpc.net/problem/2573), [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | |
 | 0주차 | [고층 건물](https://www.acmicpc.net/problem/1027), [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206), [기차 여행](https://www.acmicpc.net/problem/10713), [가운데를 말해요](https://www.acmicpc.net/problem/1655) | |
