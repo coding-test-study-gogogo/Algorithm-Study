@@ -1,1 +1,5 @@
 .DS_Store
+
+.idea
+Algorithm-Study.iml
+.gitignore
