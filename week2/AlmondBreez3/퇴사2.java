@@ -1,38 +1,34 @@
+package week2.AlmondBreez3;
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
 // The main method must be in a class named "Main".
-class 퇴사 {
+class 퇴사2 {
     public static int N;
-    public static int[] arr;
-    public static int[] weight;
     public static int[] dp;
+    public static int[][] arr;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         N = Integer.parseInt(br.readLine());
-        arr = new int[N];
-        weight = new int[N];
-        dp =  new int[N+1];
+        dp = new int[N+1];
+        arr = new int[N][2];
 
-        for (int i = 0; i < N; i++) {
+        for (int i =0; i < N; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
-            arr[i] =  Integer.parseInt(st.nextToken());
-            weight[i] = Integer.parseInt(st.nextToken());
+            int temp1 = Integer.parseInt(st.nextToken());
+            int temp2 = Integer.parseInt(st.nextToken());
+            arr[i][0] = temp1;
+            arr[i][1] = temp2;
         }
 
-        //점화식
-
-        //초기값
         for (int i = 0; i < N; i++) {
-            if (i + arr[i] <= N) {
-                dp[i+arr[i]] = Math.max(dp[i] + weight[i], dp[i+arr[i]]);
+            if (arr[i][0] + i <= N) {
+                dp[i+arr[i][0]] = Math.max(dp[i+arr[i][0]],dp[i]+arr[i][1]);
             }
             dp[i+1] = Math.max(dp[i], dp[i+1]);
         }
-
-
-
         System.out.println(dp[N]);
     }
 }
