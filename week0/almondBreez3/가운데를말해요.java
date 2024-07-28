@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class 가운데를 말해요 {
+class 가운데를_말해요 {
     public static int N;
     public static PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
     public static PriorityQueue<Integer> minHeap = new PriorityQueue<>();
