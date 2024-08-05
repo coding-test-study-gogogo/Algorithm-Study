@@ -1,4 +1,4 @@
-package week4;
+package week4.AlmondBreez3;
 import java.util.*;
 class 카펫 {
     public static int[][] arr;
