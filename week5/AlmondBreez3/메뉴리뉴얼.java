@@ -1,4 +1,4 @@
-package week5;
+package week5.AlmondBreez3;
 
 import java.util.*;
 class 메뉴리뉴얼 {

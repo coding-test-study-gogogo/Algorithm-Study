@@ -1,4 +1,4 @@
-package week5;
+package week5.AlmondBreez3;
 
 // 다시 풀기
 import java.util.*;

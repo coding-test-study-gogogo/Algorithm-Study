@@ -1,4 +1,4 @@
-package week5;
+package week5.AlmondBreez3;
 
 class 양궁대회 {
     public int N;  // Ryan이 쏠 수 있는 총 화살 수
