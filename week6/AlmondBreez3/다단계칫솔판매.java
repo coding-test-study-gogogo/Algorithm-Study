@@ -1,6 +1,8 @@
 package week6.AlmondBreez3;
 import java.util.*;
 
+// 너무 힘들게 풀었음. 다시 복습할때 가볍게 접근해보자
+// 오답: 제대로 넣어지는지 확인하고 답을 확신하자..
 class 다단계칫솔판매 {
     public HashMap<String, String> referralMap = new HashMap<>();
     public HashMap<String, Integer> result = new HashMap<>();
