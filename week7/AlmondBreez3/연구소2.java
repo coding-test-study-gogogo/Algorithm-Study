@@ -5,7 +5,7 @@ import java.lang.*;
 import java.io.*;
 
 // The main method must be in a class named "Main".
-class 연구소 {
+class 연구소2 {
     public static int N,M;
     public static int[][] arr;
     public static boolean[][] visited;
