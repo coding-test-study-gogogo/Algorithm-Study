@@ -8,6 +8,7 @@ public class 괄호의값 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line = br.readLine();
 
+
         Stack<Character> stack = new Stack<>();
         int answer = 0;
         int temp = 1;
