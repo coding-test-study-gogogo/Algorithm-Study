@@ -65,6 +65,9 @@ class 사탕게임 {
             }
         }
 
+        String a = "15:00";
+        a.replace(":","");
+        a.replace()
         // 세로 체크
         for (int j = 0; j < N; j++) {
             int count = 1;
