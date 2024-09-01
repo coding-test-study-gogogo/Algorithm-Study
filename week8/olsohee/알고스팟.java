@@ -65,7 +65,6 @@ public class 알고스팟 {
                 }
             }
         }
-
         System.out.println(answer);
     }
 
