@@ -22,12 +22,12 @@
 
 | 요일 | 담당자 | 담당자 당 문제 개수 |
 |------|------|-----|
-| 월 | [이한비](https://github.com/AlmondBreez3), [정여진](https://github.com/yeojin0523) | 1개 |
+| 월 | [이한비](https://github.com/AlmondBreez3) | 2개 |
 | 화 | [남경민](https://github.com/devzoe) | 2개 |
 | 수 | [이소희](https://github.com/olsohee) | 2개 |
 | 목 | [이한비](https://github.com/AlmondBreez3) | 2개 |
-| 금 | [이소희](https://github.com/olsohee), [남경민](https://github.com/devzoe)| 1개 |
-| 토 | [정여진](https://github.com/yeojin0523) | 2개 |
+| 금 | [이소희](https://github.com/olsohee)| 2개 |
+| 토 | [남경민](https://github.com/devzoe) | 2개 |
 
 ## Collaborators
 <table>
@@ -44,7 +44,8 @@
 ## 문제 목록
 | 주차 | 문제 | 참고 |
 |--------|---------|------|
-|  10주차  | [암호 만들기](https://acmicpc.net/problem/1759), [퍼즐](https://www.acmicpc.net/problem/1525), [빗물](https://www.acmicpc.net/problem/14719), [1학년](https://www.acmicpc.net/problem/5557)| |
+|  11주차  | [Puyo Puyo](https://www.acmicpc.net/problem/11559), [랜선 자르기](https://www.acmicpc.net/problem/1654), [기타리스트](https://www.acmicpc.net/problem/1495), [데스노트](https://www.acmicpc.net/problem/2281), [광고삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414), [자두나무](https://www.acmicpc.net/problem/2240)| |
+|  10주차  | [암호 만들기](https://acmicpc.net/problem/1759), [퍼즐](https://www.acmicpc.net/problem/1525), [빗물](https://www.acmicpc.net/problem/14719), [1학년](https://www.acmicpc.net/problem/5557), [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995), [도토리 숨기기](https://www.acmicpc.net/problem/15732), [세 수의 합](https://www.acmicpc.net/problem/2295), [파이프옮기기1](https://www.acmicpc.net/problem/17070), [알고스팟](https://www.acmicpc.net/problem/1261), [이모티콘](https://www.acmicpc.net/problem/14226), [펠린드롬?](https://www.acmicpc.net/problem/10942), [타임머신](https://www.acmicpc.net/problem/11657) | |
 |  9주차  | [다리 만들기](https://www.acmicpc.net/problem/2146), [내려가기](https://www.acmicpc.net/problem/2096), [동전2](https://www.acmicpc.net/problem/2294), [파이프옮기기1](https://www.acmicpc.net/problem/17070), [타일 채우기](https://www.acmicpc.net/problem/2133), [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129), [대표 선수](https://www.acmicpc.net/problem/2461), [소문난 칠공주](https://www.acmicpc.net/problem/1941), [구간 자르기](https://www.acmicpc.net/problem/2283), [그대, 그머가 되어](https://www.acmicpc.net/problem/14496), [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869), [알람 시계](https://www.acmicpc.net/problem/2884) | |
 |  8주차  | [감시](https://www.acmicpc.net/problem/15683), [숨바꼭질2](https://www.acmicpc.net/problem/12851), [괄호의 값](https://www.acmicpc.net/problem/2504), [가르침](https://www.acmicpc.net/problem/1062), [공룡게임](https://www.acmicpc.net/problem/20544), [알고스팟](https://www.acmicpc.net/problem/1261), [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584), [ABCDE](https://www.acmicpc.net/problem/13023), [사탕 게임](https://www.acmicpc.net/problem/3085), [호텔대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651), [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342), [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | |
 |  7주차  | [사다리 조작](https://www.acmicpc.net/problem/15684), [N과 M (1)](https://www.acmicpc.net/problem/15649), [안녕](https://www.acmicpc.net/problem/1535), [도토리 숨기기](https://www.acmicpc.net/problem/15732), [K번째 수](https://www.acmicpc.net/problem/1300), [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995), [수찾기](https://www.acmicpc.net/problem/1920), [연구소 2](https://www.acmicpc.net/problem/17141), [억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475), [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883), [미로 탐색](https://www.acmicpc.net/problem/2178), [A -> B](https://www.acmicpc.net/problem/16953) | |
